@@ -18,7 +18,7 @@
 }
 ```
 
-###Response Body (JSON):
+### Response Body (JSON):
 Success (HTTP 200)
 
 ```json
